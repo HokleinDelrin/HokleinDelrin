@@ -1,16 +1,14 @@
-## Hi there 👋
+### Lingbing Shi / HokleinDelrin
 
-<!--
-**HokleinDelrin/HokleinDelrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small self-hosted tools that solve one specific annoyance and stay auditable.
 
-Here are some ideas to get you started:
+**Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [hd-diskpeek](https://github.com/HokleinDelrin/hd-diskpeek) — zero-dependency Windows disk tracker.
+  Answers "what's growing", not just "what's big".
+
+**What I care about**
+
+- Zero or minimal dependencies — if a tool can delete your files, you should be able to read the whole thing
+- Local-first: no telemetry, no accounts, no cloud round-trip
+- Honest limits — every README says what it doesn't do
